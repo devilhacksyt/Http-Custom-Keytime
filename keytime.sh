@@ -1,4 +1,4 @@
-read -p "Enter Key: " key
+read -p "Devil Hacks Key Checker: " key
 x=$(echo $key | tail -c +3 | head -c -3 | base64 -d | jq -r '.Authorization.Expires')
 y=$(echo $x | tr "TZ" " ")
 z=$(echo $y UTC)
