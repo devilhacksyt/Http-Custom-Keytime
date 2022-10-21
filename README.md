@@ -41,9 +41,9 @@ Enter Your Key & Enjoy
 
 SHERE WITH CREDIT...🙏
 
-CREDIT:- @MR_DEVIL_HACKS
+CREDIT:- @devil_hacks_1
 
 THANQ...❤️
 
 
-# Credit:- https://t.me/devil_hacks_1
+# Credit:- https://t.me/@mr_devil_hacks
